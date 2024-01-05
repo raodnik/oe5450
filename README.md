@@ -2,7 +2,7 @@ Hi
 
   I’m someone who is passionate about Computational Engineering, Machine Learning.
 
-  I'm a Masters student at the Indian Institute of Technology, Madras. I majored in Ocean Engineering and minor was Machine Learning.
+  I'm a post graduate student from Indian Institute of Technology, Madras. I majored in Ocean Engineering and minor was Machine Learning.
   
   My main driver is Matlab, but I'm also proficient in Python and C++.
   
